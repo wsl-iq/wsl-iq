@@ -21,7 +21,7 @@
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/wsl-iq)
 - [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@wsl.iq)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?    username=wsl-iq&label=Profile%20views&color=0e75b6&style=flat" alt="wsl-iq"/></p>
+---
 
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -47,13 +47,18 @@
   </a> 
 </p>
 
+---
 
 <a href="https://github.com/wsl-iq/convoychat">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wsl-iq&layout=compact&langs_count=8&card_width=500"/>
 </a>
 
+---
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wsl-iq" alt="wsl-iq" /></a> </p>
 </p>
+
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wsl-iq&show_icons=true&locale=en" alt="wsl-iq" /></p>
 

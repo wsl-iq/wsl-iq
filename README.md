@@ -68,3 +68,10 @@
 MohammedAL-Baqer/wsl-iq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="left"> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://sl.bing.net/dfThN5kSt3c" alt="bash" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
+  </a>
+</p>
+

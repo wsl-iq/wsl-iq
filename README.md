@@ -27,14 +27,13 @@
 ![Linux](https://img.shields.io/badge/OS-Linux-yellow?logo=linux&logoColor=white)
 
 ---
----
+
 ## ![Connect](https://img.shields.io/badge/Languages_Using-0056D2?style=for-the-badge&logo=links&logoColor=white)
- ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-green?logo=gnu-bash&logoColor=white)
 ![Batchfile](https://img.shields.io/badge/Scripting-Batchfile-white?logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-blue?logo=powershell&logoColor=white)
 
----
 ---
 
 ## ![Connect](https://img.shields.io/badge/Side_Languages-0056D2?style=for-the-badge&logo=links&logoColor=white)

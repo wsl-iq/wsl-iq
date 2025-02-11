@@ -22,31 +22,25 @@
 - [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@wsl.iq)
 
 ---
+## ![Connect](https://img.shields.io/badge/Working-Systems_Development-0056D2?style=for-the-badge&logo=links&logoColor=white)
+![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-yellow?logo=linux&logoColor=white)
 
-<p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
-  </a> 
-  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="windows" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
-  </a> 
-</p>
+---
+---
+## ![Connect](https://img.shields.io/badge/Languages_Using-0056D2?style=for-the-badge&logo=links&logoColor=white)
+ ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Scripting-Bash-green?logo=gnu-bash&logoColor=white)
+![Batchfile](https://img.shields.io/badge/Scripting-Batchfile-white?logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-blue?logo=powershell&logoColor=white)
 
+---
+---
+
+## ![Connect](https://img.shields.io/badge/Side_Languages-0056D2?style=for-the-badge&logo=links&logoColor=white)
+![HTML](https://img.shields.io/badge/Language-HTML-orange?logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/Language-CSS-blue?logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=yellow)
 ---
 
 <a href="https://github.com/wsl-iq/convoychat">

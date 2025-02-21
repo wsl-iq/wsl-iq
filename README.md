@@ -23,7 +23,7 @@
 
 ---
 ## ![Connect](https://img.shields.io/badge/Working-Systems_Development-0056D2?style=for-the-badge&logo=links&logoColor=white)
-![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 ![Linux](https://img.shields.io/badge/OS-Linux-yellow?logo=linux&logoColor=white)
 
 ---

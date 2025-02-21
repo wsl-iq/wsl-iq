@@ -7,8 +7,8 @@
 ---
 
 ## ![Skills](https://img.shields.io/badge/Development%20For-Windows_&_Linux-important?style=for-the-badge&logo=windows&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ## ![Language](https://img.shields.io/badge/Programming_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -24,7 +24,7 @@
 ---
 ## ![Connect](https://img.shields.io/badge/Working-Systems_Development-0056D2?style=for-the-badge&logo=links&logoColor=white)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-![Linux](https://img.shields.io/badge/OS-Linux-yellow?logo=linux&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ---
 

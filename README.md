@@ -55,13 +55,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wsl-iq&show_icons=true&locale=en" alt="wsl-iq" /></p>
 
----
-
-- **To support the Developer and donate By** `MasterCard`
-
-- [![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#)
-- **Account Holder Name :** `Mohammed Al-Baqer`  
-- **IBAN :** `IQ70RAFB098010010177891` 
 
 <!---
 MohammedAL-Baqer/wsl-iq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

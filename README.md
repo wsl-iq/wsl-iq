@@ -40,6 +40,7 @@
 ![HTML](https://img.shields.io/badge/Language-HTML-orange?logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/Language-CSS-blue?logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=yellow)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 ---
 
 <a href="https://github.com/wsl-iq/convoychat">

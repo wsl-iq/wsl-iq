@@ -44,7 +44,7 @@
 ---
 
 <a href="https://github.com/wsl-iq/convoychat">
-  <img height=360 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wsl-iq&layout=compact&langs_count=15&card_width=360"/>
+  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wsl-iq&layout=compact&langs_count=15&card_width=500"/>
 </a>
 
 ---

@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FF704&random=true&width=435&lines=Welcom+I'm+Mohammed+Al-Baqer)](https://git.io/typing-svg)
+
+---
+
 # ![Profile](https://img.shields.io/badge/Name-Mohammed_AL--Baqer-blue?style=for-the-badge&logo=github&logoColor=white)
 
 ## ![Job](https://img.shields.io/badge/Job-Software_Developer_&_Cybersecurity_Specialist-lightgrey?style=for-the-badge&logo=code&logoColor=black)

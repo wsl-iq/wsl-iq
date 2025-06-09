@@ -1,4 +1,4 @@
-<img src="icon.png" alt="Program Icon" width="100" height="100">
+<img src="icon.png" alt="Program Icon" width="250" height="250">
 
 ---
 
@@ -52,7 +52,7 @@
 ---
 
 <a href="https://github.com/wsl-iq/convoychat">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wsl-iq&layout=compact&langs_count=15&card_width=350"/>
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wsl-iq&layout=compact&langs_count=15&card_width=351"/>
 </a>
 
 ---

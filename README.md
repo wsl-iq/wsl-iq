@@ -1,3 +1,7 @@
+<img src="icon.png" alt="Program Icon" width="100" height="100">
+
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=46F708&background=FF000000&width=435&lines=Welcome+everyone)](https://git.io/typing-svg)
 
 ---

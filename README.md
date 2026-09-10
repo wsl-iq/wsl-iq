@@ -72,7 +72,7 @@
 
 ---
  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=wsl-iq)  
+[![GitHub streak stats](https://streak-stats.demolab.com/?user=wsl-iq) ](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wsl-iq&theme=dark) 
 
 ---
 

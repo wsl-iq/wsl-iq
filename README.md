@@ -68,8 +68,7 @@
 
 ---
 
-[<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wsl-iq&show_icons=true&locale=en" alt="wsl-iq" /></p>
-](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wsl-iq&theme=dark)
+<p>&nbsp;<img align="center" src="./profile/top-langs.svg" alt="wsl-iq" /></p>
 
 ---
 

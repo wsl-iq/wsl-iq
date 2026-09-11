@@ -6,26 +6,10 @@
 
 </div>
 
-<img src="assets/icon.png" alt="Program Icon" width="150" height="150">
-<div style="
-    padding: 20px;
-    border: 1px solid #30363d;
-    border-radius: 16px;
-    background: #0d1117;
-">
-<h3>
-I am a freelance software developer specializing in the design and development of web, mobile, and desktop applications. 
-I focus on delivering a comprehensive experience that combines simplicity, precision, and high-quality execution.
-</h3>
-</div>
+---
 
-### *Development of:*
-- **`Application Desktop`**
-- **`Application Mobile`**
-- **`Application Web`**
-- **`GUI`**
-- **`CLI`**
-- **`UX/UI`**
+<img src="assets/icon.png" alt="Program Icon" width="150" height="150">
+
 ---
 
 <p align="center">
@@ -42,16 +26,16 @@ I focus on delivering a comprehensive experience that combines simplicity, preci
 
 ---
 
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> *Language Skills*
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> *I work as a freelance software developer specializing in the design and development of I focus on delivering a comprehensive experience that combines simplicity, precision, and high-quality execution.*
 
 ```mermaid
 pie title 
-    "Python" : 40
-    "C/C++" : 17
-    "JavaScript Vanilla ES6+" : 12
-    "Bash Script / Shell" : 7
-    "HTML5 semantic elements" : 13
-    "CSS3" : 11
+    "Application Desktop" : 40
+    "Application Mobile" : 17
+    "Application Web" : 12
+    "Graphical User Interface (GUI)" : 7
+    "Command-line interface (CLI)" : 13
+    "User Experience and User Interface (UX/UI)" : 11
 ```
 ---
 
@@ -97,4 +81,3 @@ JavaScript,Web Apps,20
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/wsl_iq)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/31ygkhxro5xt6jqj7lg2umqcdpsa)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/MohammedAlBaqer/)
-

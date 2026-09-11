@@ -72,7 +72,12 @@ JavaScript,Web Apps,20
 ### *GitHub Stats:*
 ![Stats](https://github-readme-stats.shion.dev/api?username=wsl-iq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![streak](https://streak-stats.demolab.com/?user=wsl-iq&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=wsl-iq"
+    alt="GitHub Streak"
+  />
+</p>
 
 ![Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=wsl-iq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12)
 

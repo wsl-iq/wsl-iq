@@ -1,7 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed Al-Baqer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+in+Page+GitHub+Me;Software Developer; software developer" alt="Typing SVG"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Al-Baqer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Mohammed Al-Baqer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+to+my+GitHub+Profile;Software+Developer;Desktop+%7C+Web+%7C+Mobile+Developer" alt="Typing SVG"/>
+
 </div>
+
 <img src="assets/icon.png" alt="Program Icon" width="150" height="150">
 <div style="
     padding: 20px;

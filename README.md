@@ -7,6 +7,23 @@
 </div>
 
 ---
+```c++
+#include <iostream>
+#include <string>
+
+int main() {
+    std::string heart = "locked";
+    bool trustIssues = true;
+    int overthinking = 404;
+    
+    if (heart == "locked" && trustIssues) {
+        overthinking = 500;
+    }
+    
+    return 0;
+}
+```
+---
 
 <img src="assets/icon.png" alt="Program Icon" width="150" height="150">
 
@@ -119,7 +136,7 @@ console.log(checkFeelings());
 
 ---
 
-```cpp
+```C++
 for (int day = 1; day <= 7; ++day) {
     if (week[day] == weekend) {
         doRoot();

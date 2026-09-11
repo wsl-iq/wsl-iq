@@ -1,80 +1,91 @@
-<img src="icon.png" alt="Program Icon" width="250" height="250">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed Al-Baqer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+in+Page+GitHub+Me;Software Developer; software developer" alt="Typing SVG"/>
+</div>
+<img src="assets/icon.png" alt="Program Icon" width="150" height="150">
+<div style="
+    padding: 20px;
+    border: 1px solid #30363d;
+    border-radius: 16px;
+    background: #0d1117;
+">
+<h3>
+I am a freelance software developer specializing in the design and development of web, mobile, and desktop applications. 
+I focus on delivering a comprehensive experience that combines simplicity, precision, and high-quality execution.
+</h3>
+</div>
 
+### *Development of:*
+- **`Application Desktop`**
+- **`Application Mobile`**
+- **`Application Web`**
+- **`GUI`**
+- **`CLI`**
+- **`UX/UI`**
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=46F708&background=FF000000&width=435&lines=Welcome+everyone)](https://git.io/typing-svg)
-
----
-
-# ![Profile](https://img.shields.io/badge/Name-Mohammed_AL--Baqer-blue?style=for-the-badge&logo=github&logoColor=white)
-
-## ![Job](https://img.shields.io/badge/Job-Software_Developer_&_Cybersecurity_Specialist-lightgrey?style=for-the-badge&logo=code&logoColor=black)
-
-### ![Country](https://img.shields.io/badge/Country-Iraq-green?style=for-the-badge&logo=flag-for-iraq&logoColor=white)
-
----
-
-## ![Skills](https://img.shields.io/badge/Development%20For-Windows_&_Linux-important?style=for-the-badge&logo=windows&logoColor=white)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-
-## ![Language](https://img.shields.io/badge/Programming_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
----
-
-## ![Connect](https://img.shields.io/badge/Connect_with_me-0056D2?style=for-the-badge&logo=links&logoColor=white)
-
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/wsl.iq)
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/wsl-iq)
-- [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@wsl.iq)
-
----
-## ![Connect](https://img.shields.io/badge/Working-Systems_Development-0056D2?style=for-the-badge&logo=links&logoColor=white)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-
----
-
-## ![Connect](https://img.shields.io/badge/Languages_Using-0056D2?style=for-the-badge&logo=links&logoColor=white)
-![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Scripting-Bash-green?logo=gnu-bash&logoColor=white)
-![Batchfile](https://img.shields.io/badge/Scripting-Batchfile-white?logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-blue?logo=powershell&logoColor=white)
-
----
-
-## ![Connect](https://img.shields.io/badge/Side_Languages-0056D2?style=for-the-badge&logo=links&logoColor=white)
-![HTML](https://img.shields.io/badge/Language-HTML-orange?logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/Language-CSS-blue?logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=yellow)
-![php](https://img.shields.io/badge/Language-php-blue?logo=php&logoColor=blue)
----
-
-<a href="https://github.com/wsl-iq/convoychat">
-  <img height=255 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wsl-iq&layout=compact&langs_count=15&card_width=350"/>
-</a>
-
----
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wsl-iq" alt="wsl-iq" /></a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=wsl-iq&style=flat-square&color=58a6ff" alt="Profile Views">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wsl-iq.wsl-iq" alt="Visitors">
+<img src="https://img.shields.io/github/followers/wsl-iq?label=Followers&style=social" alt="Followers">
+<img src="https://img.shields.io/github/stars/wsl-iq?label=Stars&style=social" alt="Stars">
 </p>
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wsl-iq)  
+### *My Skills*
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,py,cpp,c,bash,html,css,github,gitlab,qt,flask,nodejs,powershell,cmake,windows,linux,wsl,debian,ubuntu,fedora,android,androidstudio,word,excel,powerpoint,terminal,git,brave,steam,vscode,vscodeinsiders,visualstudio,net,pypi,npm,json,virtualbox,codepen,obs&theme=dark&perline=10&size=40)
 
+---
+
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> *Language Skills*
+
+```mermaid
+pie title 
+    "Python" : 40
+    "C/C++" : 17
+    "JavaScript Vanilla ES6+" : 12
+    "Bash Script / Shell" : 7
+    "HTML5 semantic elements" : 13
+    "CSS3" : 11
+```
+---
+
+```mermaid
+sankey-beta
+
+Developer,Python,40
+Developer,C++,25
+Developer,JavaScript,20
+Python,Desktop Apps,25
+Python,CLI Tools,15
+C++,System Tools,25
+JavaScript,Web Apps,20
+```
+---
+
+
+### *GitHub Stats:*
+![Stats](https://github-readme-stats.shion.dev/api?username=wsl-iq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![streak](https://streak-stats.demolab.com/?user=wsl-iq&theme=dark&hide_border=false)<br/>
+
+![Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=wsl-iq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12)
+
+## Top Languages
+
+<p align="center">
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=wsl-iq&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
+
+---
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-
 ---
 
-<p>&nbsp;<img align="center" src="./profile/top-langs.svg" alt="wsl-iq" /></p>
-
----
-
-<!---
-MohammedAL-Baqer/wsl-iq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+### *To Contact Me*
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/g6xs0r/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/wsl-iq)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/wsl_iq)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/31ygkhxro5xt6jqj7lg2umqcdpsa)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/MohammedAlBaqer/)
 

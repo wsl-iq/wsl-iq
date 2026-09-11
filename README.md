@@ -21,8 +21,29 @@
 
 ---
 
-### *My Skills*
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,py,cpp,c,bash,html,css,github,gitlab,qt,flask,nodejs,powershell,cmake,windows,linux,wsl,debian,ubuntu,fedora,android,androidstudio,word,excel,powerpoint,terminal,git,brave,steam,vscode,vscodeinsiders,visualstudio,net,pypi,npm,json,virtualbox,codepen,obs&theme=dark&perline=10&size=40)
+### *tech stack*
+![tech stack](https://go-skill-icons.vercel.app/api/icons?i=js,py,cpp,c,bash,html,css,github,gitlab,qt,flask,nodejs,powershell,cmake,windows,linux,wsl,debian,ubuntu,fedora,android,androidstudio,word,excel,powerpoint,terminal,git,brave,steam,vscode,vscodeinsiders,visualstudio,net,pypi,npm,json,virtualbox,codepen,obs&theme=dark&perline=10&size=40)
+
+---
+
+```js
+let happiness = undefined
+
+money = 1000
+
+function lifebeing() {
+  if (money >= 1000000) {
+    let happiness = true
+    console.log(happiness)
+  }
+  else {
+    let happiness = false
+    console.log(happiness)
+  }
+}
+
+lifebeing()
+```
 
 ---
 
@@ -81,3 +102,15 @@ JavaScript,Web Apps,20
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/wsl_iq)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/31ygkhxro5xt6jqj7lg2umqcdpsa)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/MohammedAlBaqer/)
+
+---
+
+```cpp
+for (int day = 1; day <= 7; ++day) {
+    if (week[day] == weekend) {
+        doRoot();
+    } else {
+        hardWork(consistency);
+    }
+}
+```
